@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Hi, I am Bilaldurmus08<br>🤝 I’m looking for Mentor<br>🌱 I’m currently learning Java<br>⚡ My interest are fitness and to meet new people
+💬 Hi, I am Bilaldurmus08<br>🤝 I’m looking for internship<br>🌱 I’m currently learning C#<br>⚡ My interest are fitness and to meet new people
 
 
 ## 🌐 Socials:
